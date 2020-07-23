@@ -32,7 +32,6 @@ user = int(input("Choose wisely... "))
 def sheldon_play():
     global sheldon 
     sheldon = int(random.randrange(1, 5))
-    #print(sheldon)
 
 sheldon_play()
 results = 0
