@@ -5,7 +5,13 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../CSS-draw"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS-draw",
+		"git.ignoreLimitWarning": true
+	}
 }
