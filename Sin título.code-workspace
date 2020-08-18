@@ -5,13 +5,10 @@
 		},
 		{
 			"path": "."
-		},
-		{
-			"path": "../CSS-draw"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "CSS-draw",
+		"liveServer.settings.multiRootWorkspaceName": "Javascript-scrapbook",
 		"git.ignoreLimitWarning": true
 	}
 }
