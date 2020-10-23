@@ -5,10 +5,13 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../JuansacOk/the-heaven"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Javascript-scrapbook",
+		"liveServer.settings.multiRootWorkspaceName": "the-heaven",
 		"git.ignoreLimitWarning": true
 	}
 }
